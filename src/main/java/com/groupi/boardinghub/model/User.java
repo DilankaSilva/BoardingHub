@@ -26,4 +26,5 @@ public class User {
     private int age;
     private float length;
     private float depth;
+    private float height;
 }
